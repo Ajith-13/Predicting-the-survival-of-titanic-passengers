@@ -1,5 +1,5 @@
 # Predicting-the-survival-of-titanic-passengers
-Machine Learning(DecisionTreeClassifier)
+Machine Learning Project (DecisionTreeClassifier)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
